@@ -11,7 +11,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "zod": "^4.1.13",
-    "express": "^4.x.x"
-  }
+  "express": "...",
+  "cors": "...",
+  "mongoose": "...",
+  "dotenv": "...",
+  "zod": "^4.1.13"
+}
 }
